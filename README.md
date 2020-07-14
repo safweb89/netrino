@@ -1,2 +1,0 @@
-# netrino
-try neutrino
